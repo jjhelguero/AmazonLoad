@@ -1,0 +1,2 @@
+# AmazonLoad
+A JavaScript project
